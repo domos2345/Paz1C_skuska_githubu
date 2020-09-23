@@ -6,6 +6,7 @@ public class Druha {
 //		odkaz od Sama
 		//odkaz od dominika...
 		System.out.println("Samo posiela");//kým tu máš priate¾ov
+//		aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 	}
 
 }
