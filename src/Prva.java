@@ -6,6 +6,8 @@ public class Prva {
 		//lovi'n it
 		System.out.println("Dominik Dzama");
 		// SamoSamiBaran ou yeah
+		//oooo dalsia zmena
+		//paralelna praca --> obyèajny commit --> pull --> merge --> push to commit
 	}
 
 }
