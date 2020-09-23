@@ -5,6 +5,7 @@ public class Prva {
 		
 		//lovi'n it
 		System.out.println("Dominik Dzama");
+		// SamoSamiBaran ou yeah
 	}
 
 }
