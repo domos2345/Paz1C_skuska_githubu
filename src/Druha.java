@@ -5,6 +5,7 @@ public class Druha {
 		// TODO Auto-generated method stub
 //		odkaz od Sama
 		//odkaz od dominika...
+		System.out.println("Samo posiela");
 	}
 
 }
