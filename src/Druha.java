@@ -7,6 +7,7 @@ public class Druha {
 		//odkaz od dominika...
 		System.out.println("Samo posiela");//kým tu máš priate¾ov
 		// no tak to je velky kopec srandy
+//		aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 	}
 
 }
